@@ -13,9 +13,12 @@ Compile o arquivo main.cpp
 g++ main.cpp -o main
 ```
 Execute o programa usando os seguintes argumentos 
-[0] -> número do K
+
+[0] -> número do K 
+
 [1] -> base de dados que queira usar para classificar (training_data, testing_data) ou criar a sua para classificar.
-Por padrão ele cria um arquivo result como a saída padrão para mostrar a classificação
+Por padrão ele cria um arquivo result como a saída padrão para mostrar a classificação 
+
 
 ```
 main 7 training_data > result
