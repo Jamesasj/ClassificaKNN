@@ -21,7 +21,7 @@ Por padrão ele cria um arquivo result como a saída padrão para mostrar a clas
 
 
 ```
-main 7 training_data > result
+./main 7 training_data > result
 ```
 <h5> Observação </h5>
 O programa não está padronizando as entradas entre 0 e 1.
